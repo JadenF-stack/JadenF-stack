@@ -4,7 +4,12 @@
 <p align="center">
   🌍 UK-based developer with a passion for creating functional, user-focused web apps<br>
   🚀 Currently experimenting with front-end projects and gradually expanding into full stack development<br>
-  📫 Reach me at: <a href="mailto:jadenfearon4@outlook.com">jadenfearon4@outlook.com</a>
+  👉 Check out my work: <a href="https://github.com/JadenF-stack?tab=repositories">github.com/JadenF-stack</a><br>
+  📫 Reach me: <a href="mailto:jadenfearon4@outlook.com">jadenfearon4@outlook.com</a><br>
+  🤝 Connect with me: 
+  <a href="https://www.linkedin.com/in/jaden-fearon-260727259/">LinkedIn</a>
+</p>
+
 </p>
 
 ---
